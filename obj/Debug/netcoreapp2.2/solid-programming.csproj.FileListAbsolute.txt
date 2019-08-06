@@ -1,0 +1,11 @@
+C:\Users\Baris\Desktop\solid-programming\bin\Debug\netcoreapp2.2\solid-programming.deps.json
+C:\Users\Baris\Desktop\solid-programming\bin\Debug\netcoreapp2.2\solid-programming.runtimeconfig.json
+C:\Users\Baris\Desktop\solid-programming\bin\Debug\netcoreapp2.2\solid-programming.runtimeconfig.dev.json
+C:\Users\Baris\Desktop\solid-programming\bin\Debug\netcoreapp2.2\solid-programming.dll
+C:\Users\Baris\Desktop\solid-programming\bin\Debug\netcoreapp2.2\solid-programming.pdb
+C:\Users\Baris\Desktop\solid-programming\obj\Debug\netcoreapp2.2\solid-programming.csprojAssemblyReference.cache
+C:\Users\Baris\Desktop\solid-programming\obj\Debug\netcoreapp2.2\solid-programming.csproj.CoreCompileInputs.cache
+C:\Users\Baris\Desktop\solid-programming\obj\Debug\netcoreapp2.2\solid-programming.AssemblyInfoInputs.cache
+C:\Users\Baris\Desktop\solid-programming\obj\Debug\netcoreapp2.2\solid-programming.AssemblyInfo.cs
+C:\Users\Baris\Desktop\solid-programming\obj\Debug\netcoreapp2.2\solid-programming.dll
+C:\Users\Baris\Desktop\solid-programming\obj\Debug\netcoreapp2.2\solid-programming.pdb
